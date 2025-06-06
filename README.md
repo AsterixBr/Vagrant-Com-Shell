@@ -8,5 +8,5 @@ Este projeto utiliza o **Vagrant** para criar uma máquina virtual Ubuntu 20.04 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/vagrant-shell-script.git
-   cd vagrant-shell-script
+   git clone https://github.com/AsterixBr/Vagrant-Com-Shell.git
+   cd Vagrant
