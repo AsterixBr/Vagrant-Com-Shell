@@ -2,7 +2,7 @@
 
 ## 📌 Descrição
 
-Este projeto utiliza o **Vagrant** para criar uma máquina virtual Ubuntu 20.04 padronizada com um **shell script** que instala pacotes essenciais para administração de sistemas e cria um usuário personalizado.
+Este projeto utiliza o **Vagrant** para criar uma máquina virtual Ubuntu 18.04.03 padronizada com um **shell script** que instala pacotes essenciais para administração de sistemas e cria um usuário personalizado.
 
 ## ▶️ Passos para Subir a VM
 
